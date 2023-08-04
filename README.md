@@ -1,5 +1,5 @@
 # Project_Artravel
-- "Artravel" Repository입니다.
+- VR Project "Artravel" Repository입니다.
 
 ## 장르
 - 관광 컨텐츠 및 색칠놀이를 접목한 힐링 컨텐츠.
